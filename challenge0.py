@@ -20,6 +20,6 @@ while True:
     heroi = input("Digite o nome do herói: ")
     poder = int(input("Digite o xp do herói: "))
     print("O herói", heroi, "possui o nivel", ranking_do_heroi(poder))
-    prosseguir = input("Deseja colocar mais outro herói no meio? (s/n): ")
+    prosseguir = input("Deseja colocar mais outro herói? (s/n): ")
     if prosseguir != 's':
         break
