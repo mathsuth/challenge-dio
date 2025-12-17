@@ -1,0 +1,6 @@
+# English
+Here I will include all my projects from the dio.me platform.
+The challenges, to be more precise...
+# Português
+Aqui incluirei todos os meus projetos da plataforma dio.me.
+Os desafios, para ser mais preciso...
